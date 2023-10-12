@@ -8,3 +8,6 @@ output/
 *.log
 *.out
 *.pdf
+*.synctex.gz
+*.fdb_latexmk
+*.fls
